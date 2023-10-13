@@ -2,8 +2,8 @@ import requests
 
 url = 'https://qldt.ptit.edu.vn/api/auth/login'
 payload = {
-    'username': 'b21dccn312',
-    'password': 'QuangHa250121@',
+    'username': 'tai khoan qldt ',
+    'password': 'mat khau qldt',
     'grant_type': 'password'
 }
 headers = {
